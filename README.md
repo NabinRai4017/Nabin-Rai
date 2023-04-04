@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @NabinRai4017
-- 👀 I’m interested in Data Science, AI, Deep Learning
+- 👋 Hi, I’m iOS Developer
+- 👀 I’m interested in apps development,Data Science, AI, Deep Learning
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Deep Learning
+- 💞️ I’m looking to collaborate on Deep Learning as well as iOS app development. I am looking forward to work on iOS app development projects with AI.
 - 📫 How to reach me nabinrai.4017@gmail.com
 
 <!---
