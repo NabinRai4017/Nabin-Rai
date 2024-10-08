@@ -1,7 +1,7 @@
-- 👋 Hi, I’m iOS Developer
+- 👋 Hi, I’m mobile developer. I am expert in native and hybrid app development.
 - 👀 I’m interested in apps development,Data Science, AI, Deep Learning
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Deep Learning as well as iOS app development. I am looking forward to work on iOS app development projects with AI.
+- 💞️ I’m looking to collaborate on Deep Learning as well as mobile app development.
 - 📫 How to reach me nabinrai.4017@gmail.com
 
 <!---
